@@ -1,7 +1,7 @@
 Este programa foi feito em Java, é multithread e possui conexão TCP/IP, e seu objetivo é
 simular uma batalha de pokemon semelhante ao jogo "Pokemon Fire Red", os autores do projeto
 são:
-Iderval da Costa e Silva Neto
+Iderval da Costa e Silva Neto (https://github.com/rocinante02)
 Lucas Costa Bezerra (https://github.com/LucasCosta9)
 Pedro Lucas Rangel Felix (https://github.com/plrf100)
 
